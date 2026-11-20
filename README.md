@@ -1,8 +1,6 @@
 ﻿<div align="center">
 
-# Olá, eu sou o **ksdev28** 👋
-
-### Estudante de Análise e Desenvolvimento de Sistemas
+# Olá, eu sou o **KS** 👋
 
 Explorando a programação, criando projetos e aprendendo algo novo a cada etapa.
 
